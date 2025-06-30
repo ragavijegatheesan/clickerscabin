@@ -341,7 +341,7 @@ margin-bottom: 3rem;
   font-size: 36px;
   font-style: italic;
   letter-spacing: 2px;
-  color: #000;
+  color: var(--golden);
   overflow: hidden;
   white-space: nowrap;
   animation: typing 1s steps(40) forwards, fadeLoop 3s ease-in-out infinite;
